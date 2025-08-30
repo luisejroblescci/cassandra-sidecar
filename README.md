@@ -114,3 +114,5 @@ Notes
 -----
 
 <sup>1</sup> The Sidecar Client offers Java 1.8 compatibility, and produces artifacts for both Java 1.8 and Java 11.
+
+<!-- Updated on 2025-08-29 20:48:24 by automated script -->
